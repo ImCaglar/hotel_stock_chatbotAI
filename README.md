@@ -56,7 +56,7 @@ curl -X POST http://localhost:3000/api/init-db
 - "Balık kategorisi" → Fish category view
 
 ### 🌐 Demo
-Visit: `http://localhost:3000`
+Visit: `https://hotel-stock-chatbot-ai.vercel.app/`
 
 ---
 
